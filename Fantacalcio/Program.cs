@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.IO;
 
 namespace Fantacalcio
@@ -34,7 +37,7 @@ namespace Fantacalcio
            
             if (m == 1)
             {
-                for (i = 0, i++)
+                for(i = 0;i==0 ; i++)
                 { 
 
                 Console.WriteLine("inserisci il nome del primo fantaallenatore");

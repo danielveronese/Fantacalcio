@@ -11,3 +11,17 @@ E:\4F 2021_2022\veronese daniel\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.
 E:\4F 2021_2022\veronese daniel\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.dll
 E:\4F 2021_2022\veronese daniel\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.pdb
 E:\4F 2021_2022\veronese daniel\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.genruntimeconfig.cache
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.exe
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.deps.json
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.runtimeconfig.json
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.runtimeconfig.dev.json
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.dll
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.pdb
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.AssemblyInfo.cs
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.dll
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.pdb
+C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.genruntimeconfig.cache
