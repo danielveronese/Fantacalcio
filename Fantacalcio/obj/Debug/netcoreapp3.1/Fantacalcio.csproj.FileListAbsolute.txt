@@ -25,3 +25,16 @@ C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalci
 C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.dll
 C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.pdb
 C:\Users\User\Desktop\Fantacalcio\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.genruntimeconfig.cache
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.exe
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.deps.json
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.runtimeconfig.json
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.runtimeconfig.dev.json
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.dll
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\bin\Debug\netcoreapp3.1\Fantacalcio.pdb
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.csproj.AssemblyReference.cache
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.AssemblyInfoInputs.cache
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.AssemblyInfo.cs
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.dll
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.pdb
+C:\Users\Studente\Downloads\fantacalcio-main (2)\fantacalcio-main\Fantacalcio\obj\Debug\netcoreapp3.1\Fantacalcio.genruntimeconfig.cache
