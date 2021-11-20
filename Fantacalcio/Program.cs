@@ -6,141 +6,72 @@ using System.IO;
 
 namespace Fantacalcio
 {
-    class Fantallenatore
+    class Fantacalcio
     {
-        //attributi
-        private static string mainpath = Environment.CurrentDirectory;
-        string fantaallenatore;
-        public string setFantallenatore()
-        {
+        int golsegnato= 3, rigoreparato=3, rigoresegato=2, assist=1, portiereimbattuto=1, golsubito=-1, espulsione=-1, autorete=-2, rigoresbagliato=-3;
+        double ammonizione=-0.5;
+        List<string> calciatori = new List<string>();
 
-            fantaallenatore = Console.ReadLine();
-            using (StreamWriter a = File.CreateText($"{mainpath}\\Squadre\\{fantaallenatore}")) { }
-            return fantaallenatore;
+        
+        
 
-
-        }
-
-
-        class Program
-        {
-            private static string mainpath = Environment.CurrentDirectory;
-            static void Main(string[] args)
-            {
-                string fant1; fant1 = "";
-                string fant2; fant2 = "";
-                int m=0 , i, I;
-                Fantallenatore fa = new Fantallenatore();
-                Fantallenatore fa2 = new Fantallenatore();
-
-
-
-
-                for (I = 0; I == 0; I++)
-                {
-                    Console.WriteLine("premi 1 per creare una nuova partita");
-                    Console.WriteLine("premi 2 per iniziare/continuare una nuova partita");
-                    Console.WriteLine("premi 3 per cancellare una nuova partita");
-                    m = Convert.ToInt32(Console.ReadLine());
-
-
-                    
-
-
-                        
-                        if (m == 1)
-                        {
-                            for (i = 0; i == 0; i++)
-                            {
-
-
-                                Console.WriteLine("inserisci il nome del primo fantaallenatore");
-                                fant1 = fa.setFantallenatore();
-                                Console.WriteLine("inserosci il nome del secondo fantaallenatore");
-                                fant2 = fa2.setFantallenatore();
-                                if (fant1 == fant2)
-                                {
-                                    Console.WriteLine("nome del fantaallenatore2 e già stato preso da primo fantallenatore inseriscine un altro ");
-                                    Console.WriteLine("fantallenatore 2 inserisci il nome ");
-                                    fant2 = fa2.setFantallenatore();
-                                }
-                                I--;
-                            }
-                        }
-
-
-
-                        else
-                        {
-                            if (m == 2)
-                            {
-
-
-
-                            }
-                            else
-                            {
-                                if (m == 3)
-                                {
-                                    if (!Directory.Exists(mainpath + "\\Squadre"  ))
-                                    {
-                                        for (i = 0; i == 0; i++)
-                                        {
-                                            Console.WriteLine("sei sicuro di voler eliminare la partita se si scivi YES se no scrivi NO?");
-                                            string delate;
-                                            delate = Console.ReadLine();
-                                            if (delate == "YES")
-                                            {
-                                                Directory.Delete(mainpath + "\\Squadre", true);
-
-
-                                            }
-                                            else
-                                            {
-                                                if (delate == "NO")
-                                                {
-                                                    I--;
-
-                                                }
-                                                else
-                                                {
-
-                                                    Console.WriteLine("non ho capito la tua risposta");
-                                                }
-
-
-                                            }
-                                        }
-
-
-                                    }
-                                    else
-                                    {
-                                        Console.WriteLine("non hai iniziato nessuna partita ");
-                                        I--;
-
-
-                                    }
-
-
-
-                                }
-
-                            }
-
-
-                        }
-
-                    }
-                    Console.ReadKey();
+        
 
 
 
 
 
 
-                }
-            }
-        }
+
+
     }
+     class Fantaallenatore
+    {
+        string nome;
+
+
+      
+
+
+
+
+
+
+    }
+    
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 0;
+            Fantacalcio f = new Fantacalcio();
+            Fantaallenatore fl = new Fantaallenatore();
+            Fantaallenatore fl2 = new Fantaallenatore();    
+
+           for (int i = 0; i==0; i++)
+            {
+                Console.WriteLine("se vuoi iniziare una nuova partita preni 1");
+                Console.WriteLine("se");
+
+
+
+
+                a =Convert.ToInt32(Console.ReadLine());  
+
+
+            }
+
+
+
+
+        }
+
+    }
+    
+
+
+
+}
 
